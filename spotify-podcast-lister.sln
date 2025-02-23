@@ -4,7 +4,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back-end", "back-end", "{65
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "front-end", "front-end", "{80D86B8C-55EF-462D-BDBC-278F1EE5ADC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Podcasts.Api", "Spotify.Podcasts.Api\Spotify.Podcasts.Api.csproj", "{D05A396F-AFAB-40EE-8077-E8747D7E6D66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Podcasts.Api", "back-end\Spotify.Podcasts.Api\Spotify.Podcasts.Api.csproj", "{D05A396F-AFAB-40EE-8077-E8747D7E6D66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
